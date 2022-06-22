@@ -2,13 +2,17 @@ package com.example.myrestaurant;
 
 import android.app.SearchManager;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ListView;
+import android.widget.Toast;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -94,6 +98,24 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     }
 
     public void removeAll(MenuItem item) {
-        businessesDao.deleteAll();
+        AlertDialog.Builder adb = new AlertDialog.Builder(binding.getRoot().getContext());
+        adb.setTitle("Remove favorites")
+                .setMessage("Do you really want to clear the data?")
+                .setPositiveButton("Delete", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        businessesDao.deleteAll();
+                        Toast.makeText(getApplicationContext(), "You've removed all entries", Toast.LENGTH_SHORT).show();
+                        ListViewAdapter lva = new ListViewAdapter(binding.getRoot().findViewById(R.id.favorites_list).getContext(),businessesDao.getFavourite());
+                        lva.notifyDataSetChanged();
+                    }
+                })
+                .setNegativeButton("Keep", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                    }
+                });
+        adb.show();
     }
 }
