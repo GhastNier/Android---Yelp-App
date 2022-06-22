@@ -19,6 +19,7 @@
         <item
             android:id="@+id/delete_fav"
             android:icon="@android:drawable/ic_delete"
-            android:title="@string/remove_all_favorites" />
+            android:title="@string/remove_all_favorites"
+            android:onClick="removeAll"/>
     </group>
 </menu>

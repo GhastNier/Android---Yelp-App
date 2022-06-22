@@ -93,4 +93,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         super.onDestroy();
     }
 
+    public void removeAll(MenuItem item) {
+        businessesDao.deleteAll();
+    }
 }

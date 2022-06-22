@@ -43,6 +43,8 @@ public interface BusinessesDao {
     void deleteCategory(String uID);
     @Query("DELETE FROM business WHERE is_favourite IS 0")
     void deleteBusinesses();
+    @Query("DELETE FROM business")
+    void deleteAll();
     @Query("Select * FROM business WHERE is_favourite IS 1")
     List<Business> getFavourite();
     @Insert

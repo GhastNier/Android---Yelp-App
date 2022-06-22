@@ -73,7 +73,6 @@ public class Business implements Serializable {
     public void setTransaction2(String transaction2) {
         this.transaction2 = transaction2;
     }
-
     public void setTransaction3(String transaction3) {
         this.transaction3 = transaction3;
     }
