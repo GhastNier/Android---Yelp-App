@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">An Italian Restaurant</string>
+    <string name="action_settings" translatable="false">Cart</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">Main Menu</string>
+    <string name="second_fragment_label" translatable="false">Antipasto Menu</string>
+    <string name="steak_label" translatable="false">Steak Menu</string>
+    <string name="tiramisu_label" translatable="false">Tiramisu Menu</string>
+    <string name="fresh_pasta_label" translatable="false">Fresh Pasta Menu</string>
+    <string name="pizza_label" translatable="false">Pizza Menu</string>
+    <string name="main_menu" translatable="false">Main Menu</string>
+    <string name="vegan" translatable="false">Vegan</string>
+    <string name="action_search" translatable="false">Search</string>
+    <string name="highest_rating" translatable="false">Highest Rating</string>
+    <string name="maximum_price" translatable="false">Maximum Price</string>
+    <string name="minimum_price" translatable="false">Minimum Price</string>
+    <string name="lowest_rating" translatable="false">Lowest Rating</string>
+    <string name="lowest_delivery_time" translatable="false">Lowest Delivery Time</string>
+    <string name="high_delivery_time" translatable="false">High Delivery Time</string>
+    <string name="high_fees" translatable="false">High Fees</string>
+    <string name="low_fees" translatable="false">Low Fees</string>
+    <string name="junction" translatable="false">-</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="star">Star</string>
+    <string name="restaurant_reservation">Restaurant Reservation</string>
+    <string name="delivery">Delivery</string>
+    <string name="take_out">Take Out</string>
+    <string name="price">Price</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="search">Search</string>
+    <string name="remove_all_favorites">Remove all favorites</string>
+    <string name="favorites">Favorites</string>
+    <string name="my_yelp_app">My Yelp APP</string>
+    <string name="title_activity_favorites_view">FavoritesView</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="return_home">Return Home</string>
+    <string name="title_activity_main_dragwer">MainDragwerActivity</string>
+</resources>

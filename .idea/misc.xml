@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/ic_fav.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/ic_half_star.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/ic_not_fav.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/ic_star.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/ic_transport.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/ic_yelp_brands.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/second_shapê.xml" value="0.243" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/shape.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/shape_2.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/shape_3.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/drawable/shape_4.xml" value="0.3145" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/activity_drawer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/activity_favorites_view.xml" value="0.33" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/activity_main_dragwer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/activity_search.xml" value="0.26773049645390073" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/app_bar_drawer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/app_bar_main.xml" value="0.23550724637681159" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/app_bar_main_dragwer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/content_bottom.xml" value="0.26721014492753625" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/content_drawer.xml" value="0.3104166666666667" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/content_main_dragwer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/content_main_drawer.xml" value="0.1514690982776089" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/content_navigation.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/drawer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/drawer_header.xml" value="0.5" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/favorites_view.xml" value="0.25" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/fragment_first.xml" value="0.26721014492753625" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/fragment_gallery.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/fragment_home.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/fragment_slideshow.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/listFrag.xml" value="0.1" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/list_frag.xml" value="0.33" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/list_head.xml" value="0.5" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/nav_header_drawer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/pager_item.xml" value="0.26721014492753625" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/rest_list.xml" value="0.5" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/restaurant_list.xml" value="0.26721014492753625" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/layout/restaurant_tab.xml" value="0.5" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/menu/activity_drawer_drawer.xml" value="0.5420512820512821" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/menu/activity_main_drawer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/menu/drawer.xml" value="0.5420512820512821" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/menu/menu_main.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android/Android---Restaurant-App---Datasource/app/src/main/res/menu/navigation.xml" value="0.31145833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
